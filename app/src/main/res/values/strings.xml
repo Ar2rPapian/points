@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTestTask</string>
+    <string name="no_data_chart_string">Please enter the count of the points on the input field below</string>
+</resources>
